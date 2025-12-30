@@ -88,6 +88,8 @@ Invalid Position.
  ------------------------------------
  Enter your choice: 5
  End of program.
+ 
+///////////////////////////////////////////////////////////////////////////////////
 
  --- **Output of 2nd program**
  
@@ -100,6 +102,8 @@ Enter main string: Hello everyone
 Enter pattern string: Everyone
 Enter replacing string: world
 Pattern not found.
+
+///////////////////////////////////////////////////////////////////////////////////
 
 --- **Output of 3rd program**
 
@@ -252,6 +256,9 @@ Menu:
 Enter your choice: 6
 End of Program.
 
+///////////////////////////////////////////////////////////////////////////////////
+
+
 --- **Output of 4th program**
 
 Enter a valid infix epression: a+b
@@ -261,6 +268,8 @@ Postfix expression is: ab+
 Enter a valid infix epression: (A+B*C)/(D-E)*(F*G)+(H/I/J)
 Infix expression is: (A+B*C)/(D-E)*(F*G)+(H/I/J)
 Postfix expression is: ABC*+DE-/FG**HI/J/+
+
+///////////////////////////////////////////////////////////////////////////////////
 
 --- **Output of 5th program**
 
@@ -302,6 +311,8 @@ Application of stacks
  3. Exit
 Enter your choice: 3
 End of Program.
+
+///////////////////////////////////////////////////////////////////////////////////
 
  --- **Output of 6th program**
 
