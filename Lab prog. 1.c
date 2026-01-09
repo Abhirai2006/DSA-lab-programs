@@ -1,3 +1,14 @@
+/**
+1. Design, Develop and Implement a menu driven Program in C for the
+following array operations:
+a. Creating an array of N Integer Elements
+b. Display of array Elements with Suitable Headings
+c. Inserting an Element (ELEM) at a given valid Position (POS)
+d. Deleting an Element at a given valid Position (POS)
+e. Exit. Support the program with functions for each of the above
+operations.
+**/
+
 #include <stdio.h>
 #define N 100
 
@@ -122,3 +133,4 @@ void deleteElement()
     n--;
     printf(" Deleted element is: %d\n", item);
 }
+
