@@ -1,9 +1,11 @@
-/***********************************************************************
-4.  Design, Develop and Implement a Program in C for converting an Infix
-    Expression to Postfix Expression. The program should support both
-    parenthesized and free parenthesized expressions with the operators:
-    +, -, *, /, %(Remainder), ^(Power) and alphanumeric operands.
-************************************************************************/
+/*****
+5.  Design, Develop and Implement a Program in C for the following Stack
+    Applications:
+        a. Evaluation of Suffix expression with single digit operands
+           and operators: +, -, *, /, %, ^
+        b. Solving Tower of Hanoi problem with n disks.
+******/
+
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
@@ -118,4 +120,5 @@ void tower(int n, char S, char D, char A)
         tower(n-1,A,D,S);
     }
 }
+
 
